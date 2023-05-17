@@ -1,6 +1,8 @@
 fwknop
 =========
 
+(NOT MAINTAINED ANYMORE)
+
 Secure ports on your server from unauthorized access using fwknop, an improved port knocking utility.
 
 > The main application of [fwknop] is to conceal services such as SSH with an additional layer of security in order to make the exploitation of vulnerabilities (both 0-day and unpatched code) much more difficult. In addition, services that are concealed in this fashion naturally cannot be scanned for with Nmap or Shodan. 
